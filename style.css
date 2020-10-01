@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px
+}
+
+#whisper {
+    display: flex;
+    height: fit-content;
+}
+
+#input-whisper{
+    display: flex;
+    font-size: x-small;
+    align-items: center;
+}
+
+.text-small-whisper{
+    margin-right: 5px;
+
+}
+
+#random-number-area{
+    display: flex;
+    align-items: center;
+}
+
+.random-number{
+    margin-right: 5px;
+}
+
+#random-name{
+    display: flex;
+}
+
+.random-name{
+    margin-right: 5px;
+}
